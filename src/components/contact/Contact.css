@@ -16,6 +16,7 @@
   text-align: center;
   border: 1px solid transparent;
   transition: var(--transition);
+  margin-bottom: 1rem;
 }
 .contact__option:hover {
   background: transparent;
@@ -63,5 +64,8 @@ form button {
 @media only screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-width-sm);
+  }
+  .contact__option {
+    margin-bottom: 1rem;
   }
 }

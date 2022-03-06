@@ -79,6 +79,9 @@
     height: 100vh;
     padding-top: 1rem;
   }
+  .header__container {
+    padding: 0 1rem;
+  }
   .header__socials,
   .scroll__down {
     display: none;

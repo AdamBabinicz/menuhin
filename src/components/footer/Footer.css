@@ -60,5 +60,6 @@
   }
   .footer__socials {
     margin-bottom: 2.6rem;
+    justify-content: space-around;
   }
 }

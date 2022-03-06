@@ -1,4 +1,4 @@
-header {
+.header {
   height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
@@ -64,14 +64,14 @@ header {
 
 /* MEDIA QUERIES MEDIUM */
 @media only screen and (max-width: 1024px) {
-  header {
+  .header {
     height: 68vh;
   }
 }
 
 /* MEDIA QUERIES SMALL */
 @media only screen and (max-width: 600px) {
-  header {
+  .header {
     height: 100vh;
   }
   .header__socials,

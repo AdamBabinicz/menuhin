@@ -6,7 +6,7 @@ import { AiFillYoutube, AiOutlineTwitter } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="footer">
       <a href="#" className="footer__logo">
         <HiOutlineMusicNote />
       </a>

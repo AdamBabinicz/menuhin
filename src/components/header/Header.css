@@ -78,4 +78,7 @@
   .scroll__down {
     display: none;
   }
+  .cta {
+    justify-content: space-around;
+  }
 }

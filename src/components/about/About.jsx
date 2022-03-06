@@ -12,7 +12,8 @@ const About = () => {
     <>
       <section id="życiorys">
         <h5>
-          ur. 22 kwietnia 1916 w Nowym Jorku, zm. 12 marca 1999 w Berlinie
+          ur. 22 kwietnia 1916 w&nbsp;Nowym Jorku, zm. 12 marca 1999
+          w&nbsp;Berlinie
         </h5>
         <h2>Życiorys</h2>
         <div className="container about__container">

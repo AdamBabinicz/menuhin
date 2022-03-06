@@ -41,23 +41,28 @@ const About = () => {
               </article>
             </div>
             <p>
-              Pochodził z rodziny żydowskiej o &nbsp;<mark> ukraińskich </mark>
-              &nbsp; korzeniach. Syn <b>Moshe Menuhina</b> i nauczycielki gry na
-              fortepianie <b>Maruthy Sher</b>. Z urodzenia Amerykanin, z wyboru
-              Brytyjczyk. Naukę gry na skrzypcach rozpoczął w wieku czterech lat
-              u Sigmunda Ankera w San Francisco, a następnie kontynuował u
-              Louisa Persingera. Publicznie zadebiutował w wieku siedmiu lat.
+              Pochodził z&nbsp;rodziny żydowskiej o &nbsp;
+              <mark> ukraińskich </mark>
+              &nbsp; korzeniach. Syn <b>Moshe Menuhina</b> i&nbsp;nauczycielki
+              gry na fortepianie <b>Maruthy Sher</b>. Z&nbsp;urodzenia
+              Amerykanin, z&nbsp;wyboru Brytyjczyk. Naukę gry na&nbsp;
+              skrzypcach rozpoczął w&nbsp;wieku czterech lat u&nbsp;Sigmunda
+              Ankera w&nbsp;San Francisco, a&nbsp;następnie kontynuował
+              u&nbsp;Louisa Persingera. Publicznie zadebiutował w&nbsp;wieku
+              siedmiu lat.
             </p>
             <p>
-              W wieku ośmiu, po raz pierwszy wystąpił w San Francisco, jako
-              solista z towarzyszeniem San Francisco Symphony Orchestra,
-              wykonując niezwykle trudną Symfonię hiszpańską Édouarda Lalo przy
-              akompaniamencie jego pierwszego nauczyciela – Louisa Persingera.
+              W&nbsp;wieku ośmiu, po raz pierwszy wystąpił w&nbsp;San Francisco,
+              jako solista z&nbsp;towarzyszeniem San Francisco Symphony
+              Orchestra, wykonując niezwykle trudną Symfonię hiszpańską Édouarda
+              Lalo przy akompaniamencie jego pierwszego nauczyciela – Louisa
+              Persingera.
             </p>
             <p>
-              Od 1927 studiował w Paryżu u Georga Enescu, a w latach 1929–1930 u
-              Adolfa Buscha. W Berlinie zadebiutował 6 stycznia 1927 w wieku 12
-              lat, gdzie po występie z Berlińskimi Filharmonikami pod dyrekcją
+              Od 1927 studiował w&nbsp;Paryżu u&nbsp;Georga Enescu,
+              a&nbsp;w&nbsp;latach 1929–1930 u&nbsp;Adolfa Buscha.
+              W&nbsp;Berlinie zadebiutował 6 stycznia 1927 w&nbsp;wieku 12 lat,
+              gdzie po występie z&nbsp;Berlińskimi Filharmonikami pod dyrekcją
               Bruno Waltera okrzyknięto go złotym dzieckiem.
             </p>
             <a onClick={() => Toggle()} class="btn btn-primary">
@@ -73,12 +78,13 @@ const About = () => {
         title="Yehudi Menuhin. The Violin of the Century (1994)"
       >
         <p>
-          Mocne wyznanie wiary w moc muzyki prawie osiemdziesięcioletni Yehudi
-          Menuhin wypowiada w ostatnim kadrze filmu Brunona Monsaingeona i choć
-          na ekranie widzimy starszego pana, mającego za sobą najstraszliwsze
-          lata XX wieku, w jego oczach wciąż widać niezwykłą ufność w potęgę
-          skrzypiec, które pod jego palcami bez wątpienia mogły wydobyć z siebie
-          dźwięki będące w stanie odmieniać serca milionów słuchaczy.
+          Mocne wyznanie wiary w&nbsp;moc muzyki prawie osiemdziesięcioletni
+          Yehudi Menuhin wypowiada w&nbsp;ostatnim kadrze filmu Brunona
+          Monsaingeona, i&nbsp;choć na ekranie widzimy starszego pana, mającego
+          za sobą najstraszliwsze lata XX wieku, w&nbsp;jego oczach wciąż widać
+          niezwykłą ufność w&nbsp;potęgę skrzypiec, które pod jego palcami bez
+          wątpienia mogły wydobyć z&nbsp;siebie dźwięki będące w&nbsp;stanie
+          odmieniać serca milionów słuchaczy.
         </p>
         <br />
         <p>

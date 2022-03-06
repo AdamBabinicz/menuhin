@@ -10,7 +10,7 @@ const Header = () => {
       <div className="container header__container">
         <h5>amerykański wirtuoz skrzypiec oraz dyrygent</h5>
         <h1>
-          <span>lord</span> Jehudi Menuhin
+          <span>lord</span> Yehudi Menuhin
         </h1>
         <h5 className="text-light">(1916 - 1999)</h5>
         <CTA />

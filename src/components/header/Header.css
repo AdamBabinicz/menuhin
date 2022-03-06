@@ -81,4 +81,11 @@
   .cta {
     justify-content: space-around;
   }
+  .me {
+    padding: 0;
+  }
+  .me img {
+    width: 100%;
+    object-fit: contain;
+  }
 }

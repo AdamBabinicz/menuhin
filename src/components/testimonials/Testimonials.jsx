@@ -22,7 +22,7 @@ const data = [
   },
   {
     avatar: img1,
-    name: "Jehudi Menuhin gra swojej córce",
+    name: "Yehudi Menuhin gra swojej córce",
     review: "Zamira Menuhin-Benthall",
   },
   {

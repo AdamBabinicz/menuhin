@@ -16,7 +16,7 @@ const About = () => {
           w&nbsp;Berlinie
         </h5>
         <h2>Życiorys</h2>
-        <div className="container about__container">
+        <div className=" about__container">
           <div className="about__me">
             <div className="about__me-image">
               <img src={img} alt="..." />

@@ -100,6 +100,7 @@
     background: red;
   }
   .about__content {
+    margin: 0 1rem;
     text-align: justify;
     background: green;
     display: flex;

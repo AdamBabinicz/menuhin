@@ -15,7 +15,8 @@ const data = [
     image: img1,
     title: "Koncert w Oakland Auditorium (1924)",
     desc: "Scène de Ballet Bériota",
-    github: "https://pl.frwiki.wiki/wiki/Yehudi_Menuhin",
+    github:
+      "https://violinsheetmusic.org/classical/work/beriot-fantaisie-ballet",
     demo: "https://musicianguide.com/biographies/1608001802/Yehudi-Menuhin.html",
   },
   {

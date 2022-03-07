@@ -40,7 +40,7 @@ const data = [
     image: img4,
     title: "Lipskie Targi Wiosenne (1961)",
     desc: "Franz Konwitschny i Yehudi Menuhin",
-    github: "",
+    github: "https://pl.wikipedia.org/wiki/Franz_Konwitschny",
     demo: "http://worldcat.org/identities/lccn-n82082891",
   },
   {

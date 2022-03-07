@@ -55,8 +55,10 @@
 /* MEDIA QUERIES SMALL */
 @media only screen and (max-width: 600px) {
   .permalinks {
-    flex-direction: column;
-    gap: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* flex-direction: column;
+    gap: 1.5rem; */
   }
   .footer__socials {
     margin-bottom: 2.6rem;

@@ -82,6 +82,12 @@
   .header__container {
     padding: 0 1rem;
   }
+  .header__container h1 {
+    font-size: 2rem;
+  }
+  .header__container h1 span {
+    font-size: 1rem;
+  }
   .header__socials,
   .scroll__down {
     display: none;

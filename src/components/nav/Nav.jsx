@@ -7,7 +7,9 @@ import {
   GiFamilyHouse,
   GiMusicalScore,
 } from "react-icons/gi";
-import { FaMenorah } from "react-icons/fa";
+import { RiDiscFill } from "react-icons/ri";
+import { IoMdMedal } from "react-icons/io";
+import { MdContactMail } from "react-icons/md";
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
@@ -33,21 +35,21 @@ const Nav = () => {
         onClick={() => setActiveNav("#zasługi")}
         className={activeNav === "#zasługi" ? "active" : ""}
       >
-        <GiViolin />
+        <IoMdMedal />
       </a>
       <a
         href="#dyskografia"
         onClick={() => setActiveNav("#dyskografia")}
         className={activeNav === "#dyskografia" ? "active" : ""}
       >
-        <FaMenorah />
+        <RiDiscFill />
       </a>
       <a
         href="#kontakt"
         onClick={() => setActiveNav("#kontakt")}
         className={activeNav === "#kontakt" ? "active" : ""}
       >
-        <GiMusicalScore />
+        <MdContactMail />
       </a>
     </nav>
   );

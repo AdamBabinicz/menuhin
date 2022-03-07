@@ -97,12 +97,10 @@
   .about__cards {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
-    background: red;
   }
   .about__content {
     margin: 0 1rem;
     text-align: justify;
-    background: green;
     display: flex;
     flex-direction: column;
     justify-content: center;

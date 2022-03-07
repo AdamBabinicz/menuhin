@@ -10,7 +10,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI</h3>
+            <h3>Wykonania / płyty</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -37,7 +37,7 @@ const Services = () => {
         {/* END OF UI */}
         <article className="service">
           <div className="service__head">
-            <h3>UI</h3>
+            <h3>Wykonania / płyty</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -64,7 +64,7 @@ const Services = () => {
         {/* END OF UI */}
         <article className="service">
           <div className="service__head">
-            <h3>UI</h3>
+            <h3>Wykonania / płyty</h3>
           </div>
           <ul className="service__list">
             <li>

@@ -111,9 +111,9 @@ const Experience = () => {
                 <h4>Doktor honoris causa 27 uczelni na całym świecie</h4>
                 <small className="text-light">
                   Uniwersytetu Oksfordzkiego, Uniwersytetu Cambridge,
-                  Uniwersytetu w Bath, Belgijskiego Niderlandzkojęzycznego
-                  Uniwersytetu w Brukseli, Narodowego Uniwersytetu w Córdobie,
-                  Narodowego Uniwersytetu Muzycznego w Bukareszcie
+                  Uniwersytetu w Bath, Belgijskiego Uniwersytetu w Brukseli,
+                  Narodowego Uniwersytetu w Córdobie, Narodowego Uniwersytetu
+                  Muzycznego w Bukareszcie
                 </small>
               </div>
             </article>
